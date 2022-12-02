@@ -1,16 +1,37 @@
-### Hi there 👋
+### Olá Mundo! Eu sou a Giovanna Sousa, prazer em conhecê-lo(a) 👋                 
 
-<!--
-**giovannasousa01/giovannasousa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Atualmente estou trabalhando com Fullstack
+- 📚 Estou estudando Flutter, Delphi, HTML, CSS, JavaScript e Dart
+- 📫 Contate-me no email: giovannasousa064@gmail.com
+- 😄 Pronomes: Ela/Dela
+- 😊 Fato curioso: estudando para ser também uma programadora de jogos 🎮🖤
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/giovannasousa01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasousa01&layout=compact&langs_count=7&theme=material-palenight"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
+  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/c7/dc/c8/c7dcc8facac1df2aee10bfec4d88e154.gif">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/gi.ponto.bleh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:giovannasousa064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovanna-sousa-31423823b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
