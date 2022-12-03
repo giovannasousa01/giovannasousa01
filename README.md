@@ -6,8 +6,6 @@
 - 😄 Pronomes: Ela/Dela
 - 😊 Fato curioso: estudando para ser também uma programadora de jogos 🎮🖤
 
-
-
 <div>
   <a href="https://github.com/giovannasousa01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -22,7 +20,7 @@
   <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/c7/dc/c8/c7dcc8facac1df2aee10bfec4d88e154.gif">
+  <img align="right" alt="Nezuko-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/Y0He2t8G0DMAAAAC/nezuko-kamado-tanjirou-kamado.gif">
 </div>
 
 ##
