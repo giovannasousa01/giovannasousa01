@@ -6,7 +6,7 @@
 - 😄 Pronomes: Ela/Dela
 - 😊 Fato curioso: estudando para ser também uma programadora de jogos 🎮🖤
 
-<div style="display: inline_block">
+<div style="display: inline">
   <a href="https://github.com/giovannasousa01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasousa01&layout=compact&langs_count=7&theme=material-palenight"/>
