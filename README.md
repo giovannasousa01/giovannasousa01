@@ -9,7 +9,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/giovannasousa01">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasousa01&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img align="center" height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasousa01&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   <img align="center" alt="Gio-Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Gio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   
-  <img align="right" alt="Nezuko-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/c5EvySkw_BYAAAAd/nezuko-confused-kimetsu-no-yaiba.gif">
+  <img align="right" alt="Nezuko-gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/aa/ce/b5/aaceb5929dd7eccb33b35210d89cb803.jpg">
 </div>
 
 ##
