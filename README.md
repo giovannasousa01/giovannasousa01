@@ -1,12 +1,12 @@
 ### Olá Mundo! Eu sou a Giovanna Sousa, prazer em conhecê-lo(a) 👋                 
 
 - 💻 Atualmente estou trabalhando com Fullstack
-- 📚 Estou estudando Flutter, Delphi, HTML, CSS, JavaScript e Dart
+- 📚 Estou estudando Flutter, HTML, CSS, JavaScript e Dart
 - 📫 Contate-me no email: giovannasousa064@gmail.com
 - 😄 Pronomes: Ela/Dela
 - 😊 Fato curioso: estudando para ser também uma programadora de jogos 🎮🖤
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/giovannasousa01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasousa01&layout=compact&langs_count=7&theme=material-palenight"/>
@@ -14,7 +14,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Gio-Delphi" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
   <img align="center" alt="Gio-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Gio-Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Gio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
