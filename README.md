@@ -14,11 +14,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
-  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gio-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Gio-Delphi" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
+  <img align="center" alt="Gio-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Gio-Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Gio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   
   <img align="right" alt="Nezuko-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/Y0He2t8G0DMAAAAC/nezuko-kamado-tanjirou-kamado.gif">
 </div>
