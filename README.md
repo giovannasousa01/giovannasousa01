@@ -18,7 +18,7 @@
   <img align="center" alt="Gio-Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Gio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   
-  <img align="right" alt="Nezuko-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/Y0He2t8G0DMAAAAC/nezuko-kamado-tanjirou-kamado.gif">
+  <img align="right" alt="Nezuko-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/c5EvySkw_BYAAAAd/nezuko-confused-kimetsu-no-yaiba.gif">
 </div>
 
 ##
