@@ -9,7 +9,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/giovannasousa01">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasousa01&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img align="center" height="180em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasousa01&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
