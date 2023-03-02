@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou a Giovanna Sousa, prazer em conhecê-lo(a) 👋                 
 
-- 💻 Atualmente estou trabalhando com Fullstack
+- 💻 Atualmente estou trabalhando como Desenvolvedora Fullstack
 - 📚 Estou estudando Flutter, HTML, CSS, JavaScript e Dart
 - 📫 Contate-me no email: giovannasousa064@gmail.com
 - 😄 Pronomes: Ela/Dela
