@@ -1,10 +1,10 @@
 ### Olá Mundo! Eu sou a Giovanna Sousa, prazer em conhecê-lo(a) 👋                 
 
-- 💻 Atualmente estou trabalhando como Desenvolvedora Fullstack
-- 📚 Estou estudando Flutter, HTML, CSS, JavaScript e Dart
+- 💻 Atualmente estou trabalhando como Desenvolvedora Fullstack Júnior em Delphi
+- 📚 Estou estudando Flutter, Python, Node.js, Dart e Delphi
 - 📫 Contate-me no email: giovannasousa064@gmail.com
 - 😄 Pronomes: Ela/Dela
-- 😊 Fato curioso: estudando para ser também uma programadora de jogos 🎮🖤
+- 😊 Fato curioso: estudando para ser também uma desenvolvedora de jogos 🎮🖤
 
 <div style="display: inline_block">
   <a href="https://github.com/giovannasousa01">
