@@ -58,8 +58,8 @@
 <br>
 <br>
 <div>
-  <img width=52% align="left"  src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=radical" />
-  <img width=44% align="right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=giovannasousa01&show_icons=true&theme=radical&layout=compact" />
+  <img width=50% align="left"  src="https://github-readme-stats.vercel.app/api?username=giovannasousa01&show_icons=true&theme=radical" />
+  <img width=45% align="right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=giovannasousa01&show_icons=true&theme=radical&layout=compact" />
 </div>
  
  &nbsp;
