@@ -2,12 +2,12 @@
 <h1 align="left">print("Hello World, I'm Giovanna Sousa!👋")</h1>
 
 <div>
-<p style="font-size:200pt;">I love solving problems using technology. Currently, I'm working as a <strong>Junior Fullstack developer</strong> in <strong>Delphi</strong>, but I'm also studying  <strong>Node.js</strong>, <strong>Python</strong>, <strong>Flutter</strong>, and <strong>Dart</strong>. I enjoy continuously learning the <strong>best practices</strong> in application development to make them as <strong>effective</strong> as possible. Additionally, I'm currently focusing on <strong>mobile development</strong>.</p>
+<p style="font-size:200pt;">Currently, I'm working as a <strong>Junior Fullstack developer</strong> in <strong>Delphi</strong>, but I'm also studying  <strong>Node.js</strong>,  <strong>Flutter</strong>, and <strong>Dart</strong>. I enjoy continuously learning the <strong>best practices</strong> in application development to make them as <strong>effective</strong> as possible. Additionally, I'm currently focusing on <strong>mobile development</strong>.</p>
 </div>
 
-- 🔭 I’m currently working on [Green Grocer](https://github.com/giovannasousa01/green-grocer.git)
+- 🔭 I’m currently working on my own project [Green Grocer](https://github.com/giovannasousa01/green-grocer.git)
 
-- 🌱 I’m currently learning *React Native*
+- 🌱 I’m currently learning *Flutter*
 
 - 📫 You can reach me on my e-mail: *giovannasousa.code@gmail.com*
 
